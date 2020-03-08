@@ -1,0 +1,27 @@
+pi = (int*) malloc(quantidade *sizeof(int));
+
+malloc= locacao de memoria = ponteiro no começo
+calloc =  locacao de memoria e inicializacao de memoria com o valor ex. 0
+realoc =  redimicionamento do tamanho da alocacao
+free = liberacao de memoria
+
+
+void* retorna valores null
+obs. checar sempre com um if comparando se o valor e null
+ex if (variavel == null)
+
+
+void* realloc(void* ptr,size_t x)
+ex.struing = (char*) malloc(23 * sizeof(char))
+struing = realloc(struing,24 * sizeof(char))
+
+free(ponteiro);
+ex. free(pi);
+interessante atribuir null para variavel
+pi = null;
+
+alocacao de memoria em funcoes
+
+
+
+

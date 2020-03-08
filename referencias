@@ -1,0 +1,32 @@
+cp = copiar arquivo
+mv = renomear e copiar arquivo
+-r =copiar diretorio
+rm =excluir arquivo
+fzf vim= procurar em diretorios
+:e. = navegar diretorios
+:e criar arquivo de texto
+:reg = atalhos
+d-u=mover rapido
+h-j= de vagar
+f=atalhos
+x=fecha aba
+gdb
+dispaly= exibe o valor da variavel
+-g para copilar no gdb em interface amigaver
+ctrl+x e ctrl+a rodar amigavel
+
+y copia
+p cola
+ 
+
+
+
+
+
+
+ *conceito sobre processo
+*requisitos(especificação,requisito)
+modelo de processos/ciclo de vida(incrementais , evolutivo)
+*modelagem por BPMN
+*manifesto agil(principos, valores ageis)
+*frammework ageis(scrum, kabam)

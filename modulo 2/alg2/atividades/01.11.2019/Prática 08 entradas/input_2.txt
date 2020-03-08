@@ -1,0 +1,13 @@
+4
+1
+Linus Benedict Torvalds
+28 12 1969
+2
+Dennis MacAlistair Ritchie
+9 9 1941
+3
+Guido van Rossum
+31 1 1956
+4
+Roberto Ierusalimschy
+21 05 1960

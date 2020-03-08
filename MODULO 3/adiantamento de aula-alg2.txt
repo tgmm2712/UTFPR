@@ -1,0 +1,8 @@
+tad-tipo abstrato de dados
+*conjunto de atributos
+*conjunto de metodos/funções
+
+tad lista->array
+          > encadeado;
+tad pilha
+tad fila

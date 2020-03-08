@@ -1,0 +1,27 @@
+atividade 06/03/2020-
+
+1-entidade:
+voltante, casa, jogador,carro, pessoa = sao substantivos e estao em singular
+podemos ter vairas estancia no objeto, so que tem caracteristica admiciveis como voltante
+
+2-generalizacao/especializacao
+-sobrenome da familia= jogador,tecnico
+    *jogador tem sobrenome da familia
+    *tecnico tem sobrenome da familia
+
+material construcao = cimento, tijolo
+    * cimento tem no material de construcao
+    *tijolo tem no material de construcao
+                                                                                           
+3-agragacao
+-time de futebol= agrega
+                    *profissional
+                    *tecnico
+                    *jogador
+
+4-divisao
+-contato de uma pessoa, passar contato de uma para outra
+
+
+
+

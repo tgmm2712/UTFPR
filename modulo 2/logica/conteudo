@@ -1,0 +1,32 @@
+ Tarefa
+
+1 - Apresente aspectos de qualidade sob o ponto de vista do usuário, desenvolvedor e gerente. 
+    dentro do processo nao se fala so do qualdidade do produto, mas sim em qualidade de processo,
+    usuário: o interesse fica concentrado principalmente no uso de software:facilidade de uso, requisitos atendidos
+    desenvolvedor: a qualdidade fica mais voltada as caracteristicas internas do software,legibilidade, testabilidade,eficiencia
+    gerente:a qualidade do produto nao pode ser desvinculada dos interesses da organizacao:custo e prazos
+
+
+
+2 - Apresente aspectos de qualidade para as seguintes aplicações:
+
+--> sistema aviônico
+    sistema avionico, exige do software um grande perpectiva em  questao de precisao, pois esses software, 
+    sao software que se vir a falhar pode-se trazer a morte, sendo um software de grande risco, por isso software
+    desse tipo no seu processo ele muito mais focado processo, para obter a maxima qualidade no desemvolvimento,
+    para que nao venha a falha durante a sua execução
+
+--> software embarcado de uma máquina de refrigerente
+software e um software que nao exige muito, mas busca mais agilidade, pois esse tipo de soffware nao tras risco a pessoas
+entao nesses software tenta atender agilidade e rapides do software, para comodidade do cliente
+
+--> sistema para folha de pagamento
+esse software e um software mais processual, ele nao pode cometer erros, e busca a mais seguranca possivel para que nao venha
+a vir furos, onde racker nao possam alterar ou invadir,esse software nao vem necessidade de precisao, pois ele nao pode 
+por em risco a vida humana, certo ponto de vista, quanto mais seguro melhor e o software
+
+--> sistema de frente de caixa
+    
+--> sistema embarcado de um marcapasso
+
+--> um jogo para celular

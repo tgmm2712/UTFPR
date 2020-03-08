@@ -1,0 +1,21 @@
+1-1969
+2-Depois de grandes avanço na area tecnologica, na questao de computadores, durante a guerra, surgio necessidade de comunicacao, e junto a tambem a necessidade de seguranca da informacoes militares, assim se ocorre-se uma invasao, nao perderia todas as informacoes, assim dando o pricipio da  internet, onde começou a comunicacao com univercidades e militares, onde ainda era restrito da população em geral
+
+3-ARPANET era uma rede que interligava algumas universidades com militares na época, com intuido de realizar trasnmissoes de pequenas informaçoes e comunicacao de voz.
+
+
+4-era formado por militares e universidades da época, onde se conectava pelo protocolo NCP(network control protocol), que logo em seguida foi substituida pelo TCP(transmission  control protocol), que ate hoje utlizamos.
+
+5-Satelite sputnik,
+
+6-com o surgimento dos protocolos, foi o que deu axilio para que os computadores se comunicar-se entre si ao mesmo tempo, sem que a rede fica-se bloqueada ate termino das transmissao de dados.
+
+7- o TCP foi criado com o intuido de corrigir as falhas que o NCP vinha trasendo, como por exemplo, quando comeca a fazer a transmissao de um arquivo de um ponto ao outro todas as transmissao paravam, ate que se comclui-se o processo, e outro problema que agregava, era que quando envia pacotes de dados para outro ponto, era enviado de uma forma bruta,de pacote inteiro
+
+8-Vint Cert e Robert Kahn
+
+
+
+
+
+

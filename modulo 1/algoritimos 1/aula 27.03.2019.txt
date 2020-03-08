@@ -1,0 +1,153 @@
+#include <stdio.h> /*printf, scanf */
+#include <stdlib.h>
+#include <math.h> /*cos, sih, pi*/
+
+int main(){
+
+double  a, b;
+
+
+scanf("%lf %lf", &a &b);
+
+
+c=(a + b) /2.0;
+
+printf("media = %.1lf\n", c);
+
+
+
+
+returne 0;
+
+}
+
+/* %.2lf ponto apos a virgula */
+/* %2.lf */
+/* %02.lf casas reservadas */
+
+___________________________________________________________________
+#include <stdio.h> /*printf, scanf */
+#include <stdlib.h>
+#include <math.h> /*cos, sih, pi*/
+
+int main(){
+
+int a=1, b=2, c=3, d;
+
+d=a > b /* d<-0 */
+
+d=d <= a /* d<-1 */
+
+b=d ==1; /* b<-1 */
+
+b= !b; /* b<-0 */
+
+
+
+
+printf("%i\n",d);
+
+
+
+&&=e
+||=ou
+! =nao
+<=> equivalente
+
+A	B	C	D	A==B	c>d	&&	||
+2	3	5	1	0	1	0	1
+7	7	2	4	1	0	0	1
+2	3	1	1000	0	0	1	0
+
+
+denominar verdadeiro ou falso(utilizacao do define)
+#define FAlSO 0
+#define VERDADEIRO 1
+#define e &&
+#define ou ||
+
+
+
+sqnt(valor ex=16)=4 raiz quadrada 
+pow(5,2) = 75   potenciação
+
+
+A	B	A==B	!(A==B)
+1	2	0	1
+2	2	1	0
+
+
+V1	V2	v3	v1*v1+10>v2	v1!=v2&&v3=='a'
+6	2	a	1		1
+-2	40	a	0		0
+
+V1	v2	V3	v3=='A'||v3=='a'&&v2==v1
+M	M	A	1
+m	M	a	0
+
+
+
+
+operadores aritimeticos composto com atribuicao
++=
+-=
+*=
+/=
+
+EX:encurtando codigo
+a = a + b	|
+a += b		|mesma rsultado
+
+
+b = b + 2
+b += 2
+
+posiveis maneiras de fazer com soma de 1
+c = c + 1, c += 1, c++;
+
+
+
+printf("%I\n", x+1);nao altera o valor x
+printf("%I\n", x++);altera valor d x
+
+x1/3 <=> raiz cubica de x
+
+
+var = pow(x,y); calcular x^y;
+var = sqrt(x); calcular raiz quadrada de x;
+var = ceil(x); arredonda o valor para cima;
+var = floor(x); arredonda valor para baixo;
+
+a/100
+a=a+b	12,10
+b=a-b
+b=b*100
+
+flisol
+maratona de programacao
+sab 27/04
+sudotec
+flisol 10:00-12:00 | 13:00-17:00
+maratona 10:00-12:00 | 14:00-19:00
+
+
+
+
+case 1:
+{
+	printf("domingo\n");
+	break;
+}
+default:
+{
+	printf("valores invalidos");
+	break
+}
+
+
+
+break= final no while
+continue= comeco do while
+
+
+ 

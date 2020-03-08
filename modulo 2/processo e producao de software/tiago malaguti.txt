@@ -1,0 +1,21 @@
+1- forma na qual utilizamos para produção de software de qualidade, visando um sucesso ao final do desemvolvimento,
+ tendo assim uma boa qualidade de software, utilizado processos de producao de software, como modelos de ciclo de vida,
+ e garantido uma boa manutencao do software.
+
+ 2- cascata, XP, scrum, modelo em v, espiral.
+
+ 3- requisitos e uma das partes mais importantes no desemvolvimento de software, pois para poder atender a necessidade do 
+ cliente precissamos coletar os requisitos, com esse requisitos sao avaliados, e estudados, e implementados de acordo com a
+ necessidade do cliente
+
+ 4-sim, podemos nao utilizar so um ciclo de vida mas implementar mais, para processo de software, pois com a necessidade 
+ de se tornar mais ageis, ter um retorno mais rapido para o cliente, utilizamos o modelos mais ageis possiveis, implementado
+ de acordo com a necessidade
+
+ 5-xp,scrum,RUP
+
+ 6- intender, mais a fundo processos de producao de software,e como eles funcionam independentemente, e como aplicar em uma producao 
+ de software.
+
+ 7- formas de selecionar melhores metodos de producao de software, de qualidade. e mais agil, e seguro.
+
