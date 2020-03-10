@@ -4,9 +4,7 @@
 
 void merge_sorte(v,p,r){
     if (p<r){
-        int q = (p + r)/2;
-
- 
+        int q = (p + r)/2; 
     merge_sorte(v,p,q);
     merge_sorte(v,q+1,r);
  

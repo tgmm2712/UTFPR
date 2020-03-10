@@ -1,0 +1,17 @@
+interrupções: leitura dedisco, e uma interrupção, pois tem que para o processo que esta acontecendo pra buscas a informação.
+
+
+--segmentos
+    *texto:contexto de software
+
+    *dados:espaço de endereçamento
+
+    *pilhas de execução: contexto de  hardware
+
+
+--componentes
+    *contexto de hardware:pilhas de execução
+
+    *contexto de software:texto
+
+    *espaço de endereçamento:dados
