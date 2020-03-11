@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package PO13S;
+package javaapplication2;
 
 import javax.swing.JOptionPane;
 
@@ -11,9 +11,15 @@ import javax.swing.JOptionPane;
  *
  * @author tiago
  */
-public class SegundoPrograma {
-    public static void main(String args[]){
-        JOptionPane.showMessageDialog(null,"hello word!");
-        System.exit(0);
-    }
+public class segundoprograma {
+    	public static void main(String[] args) {
+//		System.out.println("Hello World");
+		
+		JOptionPane.showMessageDialog(null, "Hello World");
+		
+		System.exit(0);
+
+	}
+
+    
 }

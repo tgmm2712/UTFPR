@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package PO13S;
+package javaapplication2;
 
 /**
  *
  * @author tiago
  */
-public class PrimeiroPrograma {
-
-    /**
-     * @param args the command line arguments
-     */
+public class primeiroprograma {
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+		System.out.println("Hello World");
+		
+//		JOptionPane.showMessageDialog(null, "Hello World");
+		
+		System.exit(0);
+
+	}
     
 }
