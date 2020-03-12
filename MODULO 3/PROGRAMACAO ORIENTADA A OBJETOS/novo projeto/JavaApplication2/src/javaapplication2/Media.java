@@ -26,7 +26,7 @@ public class Media {
      for(int i=0;i<4;i++){
         total+=notas[i];
      }
-     
+     //length retorna o tamanho d vetor
      System.out.println(total/4);
      
      

@@ -3,3 +3,18 @@ esquema vs instacia
 
 instacia seria o que indentifica,(como valor daplaca do carro, em uma tabelade carros)
 
+
+-----------------------------------anotacões dia 11.03.20-----------------------------------
+atributos, sao tudo as caracteriticas de uma entidade, ex:nome, endereco etc.
+ simples monovalorado: quando nao e dividido:so pode terum valor(nao pode ter valores)
+ simples multivalorado: ele e uma unica coisa so que pode assumir variosvalores
+ composto monovalorado: ele pode ser um unico valor e ser dividido em valores
+ composto multivalorado: pode ter varios valores e e dividir em varios valores
+
+ atributo derivado: e um atributo que e calculado, ex:colunas calculadas, nao vem necessidade de armazenamento
+atributo indentificador: (chave primaria)
+atributo indentificador parciamente: ex. RG(pode ser repitido em varios estador);
+
+
+____________________________________________________________________________________________
+
