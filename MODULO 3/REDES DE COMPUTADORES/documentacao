@@ -3,7 +3,7 @@
 *1969 o surgimento da internet   slide 22
 *4 palavras para definicao de redes de computadores: interligado,compartilhar recursos,informação.
 
-
+Redes de Difusão:Canal único de comunicação, compartilhado por todas as máquinas da rede
 
 
 ---------------------------------------------------------------------------------------------------
@@ -22,5 +22,28 @@ e informação, disponiveisaos usuario atraves de esetacao de trabalho
 interligado,compartilhar recursos,informação.
 
 meios de transmissao: corresponde ao meio fisico  que sera utilizado para realizar a comunicacao:cabos,modem,placa,esetacao
+
+mac:origem e destino
+broadcast: todas as maquinas da rede recebem, se a maquina quiser fica se nao descarata
+
+multicasting: rede ponto a ponto; usa um valor especial, para enviar apenas um ou duas maquinas
+
+rede ponto a ponto:Canal exclusivo de comunicação para interligação de quaisquer duas máquinas na rede;
+rede ponto a ponto:Para ir de uma origem para um destino um pacote pode ter de passar por uma ou mais máquinas intermediárias
+
+duas formas de endereco que pode colocar
+
+
+    Quanto a dispersão geográfica, as redes podem ser classificadas como:
+    •Redes Pessoais
+    •PANs(PersonalAreaNetworks) (Redes pequenas como Infravermelho, Bluetooth)
+    •HANs(Home AreaNetworks) (Domestica, comp. de recursos, SmartHome)
+    •Redes de maior abrangência
+    •LANs(Local AreaNetworks)  (Sala, edifício, campus)
+    •MANs(MetropolitanAreaNetworks) (Rede entre cidades do mesmo pais)
+    •WANs(WideAreaNetworks) (Pais e continentes)
+    •Internet 
+    •Rede de Redes (inter-rede)
+
 
 
