@@ -30,7 +30,7 @@ multicasting: rede ponto a ponto; usa um valor especial, para enviar apenas um o
 
 rede ponto a ponto:Canal exclusivo de comunicação para interligação de quaisquer duas máquinas na rede;
 rede ponto a ponto:Para ir de uma origem para um destino um pacote pode ter de passar por uma ou mais máquinas intermediárias
-
+ 
 duas formas de endereco que pode colocar
 
 

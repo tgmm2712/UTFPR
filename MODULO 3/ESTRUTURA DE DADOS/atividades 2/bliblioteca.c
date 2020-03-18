@@ -1,4 +1,4 @@
-#include <stdio.h>
+k#include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
@@ -11,13 +11,13 @@ typedef struct valores
    char ra[7];
 }conver;
 
+//retirar os printf e retirar o scanf
+
 
 void acesso(char *nome,char *ra){
     conver login;
-    printf("Digite seu nome:");
-    scanf("%s",login.nome);
-    printf("Digite seu RA:");
-    scanf("%s",login.ra);
+
+
 
 }
 /*

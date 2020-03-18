@@ -4,41 +4,19 @@
 #include "trasicao.h"
 
 
+ int menu (int *sele){
+    printf("selecione  uma opcao do menu:\n");
+    printf("1-saque\n");
+    printf("2-Deposito\n");
+    printf("3-saldo\n");
+    printf("4-sair\n");
+    scanf("%d",sele);
+ }
 
-int main()
-{
-    char nome[35],ra[11];
-    acesso(nome,ra);
-    printf("%s \n %s",nome,ra);
-    printf("\n");
-    
-    
-    int valor;
 
-/*
-    menu(valor);
-    
-    switch ()
-    {
-    case 1:
+int main(){
+    int sele;
 
-        break;
+menu(&sele);
 
-    case 2:
-
-        break;
-
-    case 3:
-
-        break;
-    case 4:
-
-        break;
-
-    default:
-        printf("valor invalido, selecione o valor do menu!");
-        break;
-    }
-*/
-   // return 0;
 }
