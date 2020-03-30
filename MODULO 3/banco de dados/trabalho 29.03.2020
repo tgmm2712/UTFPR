@@ -1,0 +1,25 @@
+orquestra -> nome
+            cidade
+            pais
+            data de criação
+obs: orquestra executa varias sinfonias
+
+sifonia pode ser executada por varias orquestra
+
+sinfonias-> nome
+            compositor
+            e data de criação
+
+orquestra -> filarmonica
+          -> sifonica
+
+musico -> nome do musico
+          indentidade
+          nascionalidade
+          data de nascimento
+
+um músico só pode pertencer a uma orquestra e possui uma função na orquestra (ex: violinista, maestro...).
+
+Todo músico que atua em uma sinfonia toca apenas um instrumento
+
+Cada instrumento possui um identificador e uma descrição.

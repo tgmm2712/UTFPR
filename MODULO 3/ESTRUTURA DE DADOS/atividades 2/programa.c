@@ -3,20 +3,24 @@
 #include <string.h>
 #include "trasicao.h"
 
-
- int menu (int *sele){
-    printf("selecione  uma opcao do menu:\n");
-    printf("1-saque\n");
-    printf("2-Deposito\n");
-    printf("3-saldo\n");
-    printf("4-sair\n");
-    scanf("%d",sele);
- }
-
-
 int main(){
-    int sele;
 
-menu(&sele);
+    //decalracao das variaveis
+    double a,b,c;
+
+    //coleta de informacoes
+    printf("digite o valor de A:");
+    scanf("%lf",&a);
+    printf("digite o valor de B:");
+    scanf("%lf",&b);
+    printf("digite o valor de C:");
+    scanf("%lf",&c);
+
+    //declara um ponteiro de struct e chama a funcao para armazenar dados
+    dados *new = alocacao(a,b,c);
+
+    resultados *total = baskara(new);
+
+    mostrar(total);
 
 }

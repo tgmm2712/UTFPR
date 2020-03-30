@@ -1,3 +1,6 @@
-typedef struct valores conver;
+typedef struct valores dados;
+typedef struct resultados resultados;
 
-void acesso(char *nome,char *ra);
+dados *alocacao(double a,double b, double c);
+resultados *baskara(dados *new);
+void mostrar(resultados *total);
