@@ -26,4 +26,6 @@ int main(){
     }
 printf("\n");
 
+
+printf("tanks\n");
 }

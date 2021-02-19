@@ -39,7 +39,7 @@ int main(void)
 
 void *executar(void *tid)
 {
-  printf("ThreadID: %d. A soma eh: %d\n",tid,soma); //esse tid eh o numero do seu processo da thread
+  printf("ThreadID: %p. A soma eh: %d\n",tid,soma); //esse tid eh o numero do seu processo da thread
   soma =soma+1;
 }
 
@@ -49,3 +49,4 @@ void *intruso()
   soma = 0;
   printf("Thread Intruso: A soma depois: %d\n",soma);
 }
+
