@@ -1,0 +1,30 @@
+levantamento de requisito para aeroporto
+
+*reserva de passagem
+    ->N da reserva
+    ->data
+    ->hora
+    ->passageiro
+    ->origem
+    ->destino
+    ->numero da poltrona
+
+    
+*destino
+
+
+*passageiro
+    ->cpf
+    ->RG
+    ->nome do cabloco
+    ->data de nascimento
+    ->telefone
+    ->
+
+
+*tipo de voo
+
+*entidades
+->cliente
+->passagem
+->rota

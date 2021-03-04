@@ -1,0 +1,26 @@
+->ENTIDADES
+    *RESERVA
+        -ID GERADO UNICO
+    *PASSAGEIRO
+        -NOME
+    *ROTAS DE VOO
+        -DATA/HORA
+    
+    
+
+*revendedor de equipamento
+
+*arvores
+    ->adubagem
+    ->tipo folha
+    ->tipo de caule
+    ->tipo raiz
+    ->fruto
+        ->que tipo de fruto
+    ->nome cientifico
+    ->nome comercial
+    ->regiao
+        ->clima
+    
+
+
